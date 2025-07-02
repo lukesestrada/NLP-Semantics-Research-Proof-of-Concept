@@ -8,7 +8,7 @@ section, as it is just an elementary math and LLM review.
 RELEVANT FILES:
 
 1) Sem_Final_Proj_Explore.ipynb : this was my initial notebook where I preliminarily explored various approaches and considered their implications  
-2) Sem_NPI.ipynb : this is the second notebook I made after my initial findings, aimed specifically at isolating a theoretical "NPI component" from various NPI's ("negative polarity
+2) Sem_NPI.ipynb : this is the second notebook I made after my initial findings, aimed specifically at isolating a theoretical "NPI component" from various NPI's ("negative polarity <-- OK so I somehow duplicated and corrupted this file not sure how oops will fix this later
    items"). All mathematical assumptions, such as linear separability, are detailed in the Squib Writeup
 3) Squib Writeup : this is my full, written out explanation, analysis, and conclusion of the exploratory research I conducted for this project 
 
